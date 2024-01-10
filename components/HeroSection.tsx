@@ -137,9 +137,8 @@ const HeroSection = () => {
                   Research Interests:
                 </span>
                 <p className="text-justify text-xl leading-9 dark:text-neutral-100">
-                  Human-computer Interaction, 3D Image Processing, Image
-                  Classification, Deep Learning Application, and Machine
-                  Learning.
+                  Human-computer Interaction, Computer Vision, Image Processing,
+                  3D image reconstruction, Deep Learning, and Machine Learning.
                 </p>
               </div>
             </div>
